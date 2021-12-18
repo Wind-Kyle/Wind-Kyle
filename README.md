@@ -3,7 +3,7 @@
   <h1>I am <a href="https://github.com/uJhin">YuJhin</a></h1>
   <blockquote>
     <br/>
-    돈도 많겠다, 이젠 코딩 따윈 취미일 뿐.
+    코딩 따위 취미일 뿐.
     <br/>
   </blockquote>
   <img src="/images/crypto.png"/>
