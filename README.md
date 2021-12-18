@@ -1,5 +1,13 @@
-<h1 align="center">I am <a href="https://github.com/uJhin">YuJhin</a></h1>
-<img align="center" src="/images/crypto.png"/>
+
+<div align="center">
+  <h1>I am <a href="https://github.com/uJhin">YuJhin</a></h1>
+  <blockquote>
+    <br/>
+    돈도 많겠다, 이젠 코딩 따윈 취미일 뿐.
+    <br/>
+  </blockquote>
+  <img src="/images/crypto.png"/>
+</div>
 
 <!--
 **Wind-Kyle/Wind-Kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
