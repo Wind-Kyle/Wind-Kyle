@@ -1,5 +1,9 @@
-### I am [YuJhin](https://github.com/uJhin)
-
+<center>
+  <img src="/images/main.png"/>
+  <a href="https://github.com/uJhin">
+    <b><font size="98">I am YuJhin</font></b>
+  </a>
+</center>
 <!--
 **Wind-Kyle/Wind-Kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
