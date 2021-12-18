@@ -1,5 +1,5 @@
 <h1 align="center">I am <a href="https://github.com/uJhin">YuJhin</a></h1>
-<img align="center" src="/images/main.png"/>
+<img align="center" src="/images/crypto.png"/>
 
 <!--
 **Wind-Kyle/Wind-Kyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
