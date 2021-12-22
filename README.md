@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>I am <a href="https://github.com/uJhin">YuJhin</a></h1>
+  <h3>I am <a href="https://github.com/uJhin">YuJhin</a></h3>
 </div>
 
 <!--
