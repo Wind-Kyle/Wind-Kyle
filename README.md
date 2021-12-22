@@ -1,12 +1,6 @@
 
 <div align="center">
   <h1>I am <a href="https://github.com/uJhin">YuJhin</a></h1>
-  <blockquote>
-    <br/>
-    코딩 따위 취미일 뿐.
-    <br/>
-  </blockquote>
-  <img src="/images/crypto.png"/>
 </div>
 
 <!--
