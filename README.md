@@ -1,5 +1,6 @@
 
 <div align="center">
+  <img src="/Profile/profile.png"/>
   <h3>I am <a href="https://github.com/uJhin">YuJhin</a></h3>
 </div>
 
