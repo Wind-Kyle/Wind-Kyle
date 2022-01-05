@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img src="/Profile/profile.png" width="550" height="350"/>
   <h3>I am <a href="https://github.com/uJhin">YuJhin</a></h3>
   <a href="https://github.com/Wind-Kyle">
     <img alt="Wind-Kyle's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wind-Kyle&show_icons=true"/>
